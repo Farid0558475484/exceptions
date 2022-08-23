@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{420F43E3-69BF-473D-B07D-A6945FB09ABF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exceptions/Room.cs">
+    <Files>
+      <File FileName="exceptions/Program.cs" Line="1" Column="1" />
+      <File FileName="exceptions/Room.cs" Line="108" Column="26" />
+      <File FileName="exceptions/Hotel.cs" Line="7" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exceptions" expanded="True">
+            <Node name="exceptions" expanded="True">
+              <Node name="Room.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

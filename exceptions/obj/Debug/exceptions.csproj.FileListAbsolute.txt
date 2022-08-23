@@ -1,0 +1,2 @@
+/Users/xamyak/Desktop/exceptions/exceptions/obj/Debug/exceptions.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/exceptions/exceptions/obj/Debug/exceptions.csproj.CoreCompileInputs.cache
